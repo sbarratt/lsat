@@ -1,6 +1,6 @@
 # lsat
 
-Code accompanying the paper 'Least Squares Auto-Tuning'.
+Code accompanying the paper [Least Squares Auto-Tuning](http://web.stanford.edu/~boyd/papers/lsat.html).
 
 ## Installation
 
